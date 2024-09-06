@@ -1,0 +1,202 @@
+{
+    "name": "FTM ETH Tokens",
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+    "keywords": [
+        "fantom",
+        "defi",
+        "ethereum",
+        "bridge"
+    ],
+    "version": {
+        "major": 2,
+        "minor": 1,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 250,
+            "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+            "decimals": 18,
+            "name": "Crocoswap",
+            "symbol": "CROCO",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0x321162Cd933E2Be498Cd2267a90534A804051b11/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+            "decimals": 18,
+            "name": "Wrapped Fantom",
+            "symbol": "WFTM",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0xad84341756bf337f5a0164515b1f6f993d194e1f",
+            "decimals": 18,
+            "name": "Fantom USD",
+            "symbol": "FUSD",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+            "decimals": 18,
+            "name": "Staked Fantom",
+            "symbol": "SFTM",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+            "decimals": 18,
+            "name": "Wrapped Ethereum",
+            "symbol": "WETH",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+            "decimals": 8,
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0x321162Cd933E2Be498Cd2267a90534A804051b11/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e",
+            "decimals": 18,
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+            "decimals": 18,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x095370AE41FF23798d96c1ADF7D58Ae6a2b05b18/logo.png"
+          },
+        {
+            "chainId": 250,
+            "address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
+            "decimals": 18,
+            "name": "Aave",
+            "symbol": "AAVE",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8cE2Dee54bB9921a2AE0A63dBb2DF8eD88B91dD9/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5",
+            "decimals": 18,
+            "name": "Band",
+            "symbol": "BAND",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x6Fd02c0789797e595751208a2446faF721B9f3C2/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8",
+            "decimals": 18,
+            "name": "ChainLink",
+            "symbol": "LINK",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0xB01E8419d842beebf1b70A7b5f7142abbaf7159D",
+            "decimals": 18,
+            "name": "Cover Protocol Governance",
+            "symbol": "COVER",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xe35f68f3DE8590F3FD6884Eef166AF9f414D75F7/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x657A1861c15A3deD9AF0B6799a195a249ebdCbc6",
+            "decimals": 18,
+            "name": "Cream",
+            "symbol": "CREAM",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xb9AB39F9b4E3af0c97aE55EA48A960656C681A88/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
+            "decimals": 18,
+            "name": "Curve DAO",
+            "symbol": "CRV",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0x1E4F97b9f9F913c46F1632781732927B9019C68b/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0xaf319E5789945197e365E7f7fbFc56B130523B33",
+            "decimals": 18,
+            "name": "Frax",
+            "symbol": "FRAX",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xBB69c92FBb4F1aFf528875056650c862F94D3CC1/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x44b26e839eb3572c5e959f994804a5de66600349",
+            "decimals": 18,
+            "name": "Hegic",
+            "symbol": "HEGIC",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x20642e9cdd6BFe701817A7b50dE89777C8F2b208/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x0E1694483eBB3b74d3054E383840C6cf011e518e",
+            "decimals": 18,
+            "name": "Synth sUSD",
+            "symbol": "sUSD",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0x0E1694483eBB3b74d3054E383840C6cf011e518e/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x2a5062d22adcfaafbd5c541d4da82e4b450d4212",
+            "decimals": 18,
+            "name": "Keep3r",
+            "symbol": "KP3R",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB42F2c83b4ee3C3620789B5603f4bdf01792e0a0/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x924828a9Fb17d47D0eb64b57271D10706699Ff11",
+            "decimals": 18,
+            "name": "Spice",
+            "symbol": "SFI",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xC386282f66c090A1e42c39e83dBD2c2d447dE506/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
+            "decimals": 18,
+            "name": "Sushi",
+            "symbol": "SUSHI",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
+            "decimals": 18,
+            "name": "Synthetix Network",
+            "symbol": "SNX",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x68e44C4619db40ae1a0725e77C02587bC8fBD1c9/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0xde3A24028580884448a5397872046a019649b084",
+            "decimals": 6,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xde3A24028580884448a5397872046a019649b084/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69",
+            "decimals": 18,
+            "name": "yearn.finance",
+            "symbol": "YFI",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x99519AcB025a0e0d44c3875A4BbF03af65933627/logo.png"
+        }
+    ],
+    "timestamp": "2021-02-09T17:49:00+00:00"
+}

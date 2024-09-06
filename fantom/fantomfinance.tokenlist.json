@@ -1,0 +1,161 @@
+{
+    "name": "Fantom Finance Tokens",
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
+    "keywords": [
+        "fantom",
+        "defi",
+        "dex"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "timestamp": "2021-03-03T00:00:00+00:00",
+    "tokens": [
+        {
+            "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+            "chainId": 250,
+            "name": "Crocoswap",
+            "symbol": "CROCO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0x04068da6c83afcfa0e13ba15a6696662335d5b75/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x078eef5a2fb533e1a4d487ef64b27df113d12c32",
+            "decimals": 18,
+            "name": "fBAND",
+            "symbol": "FBAND",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0x078eef5a2fb533e1a4d487ef64b27df113d12c32/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x27f26f00e1605903645bbabc0a73e35027dccd45",
+            "decimals": 18,
+            "name": "fBNB",
+            "symbol": "FBNB",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0x27f26f00e1605903645bbabc0a73e35027dccd45/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0xe1146b9ac456fcbb60644c36fd3f868a9072fc6e",
+            "decimals": 18,
+            "name": "fBTC",
+            "symbol": "FBTC",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0xe1146b9ac456fcbb60644c36fd3f868a9072fc6e/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x81740d647493a61329e1c574a11ee7577659fb14",
+            "decimals": 18,
+            "name": "fCHF",
+            "symbol": "FCHF",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0x81740d647493a61329e1c574a11ee7577659fb14/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x24d39324cf3697fd9fd78714e8cdeb5df66e3dcd",
+            "decimals": 18,
+            "name": "fCNY",
+            "symbol": "FCNY",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0x24d39324cf3697fd9fd78714e8cdeb5df66e3dcd/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x658b0c7613e890ee50b8c4bc6a3f41ef411208ad",
+            "decimals": 18,
+            "name": "fETH",
+            "symbol": "FETH",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0x658b0c7613e890ee50b8c4bc6a3f41ef411208ad/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0xe105621721d1293c27be7718e041a4ce0ebb227e",
+            "decimals": 18,
+            "name": "fEUR",
+            "symbol": "FEUR",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0xe105621721d1293c27be7718e041a4ce0ebb227e/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0xcde58e4b6c7b78b04da664edb0a9752cc5fedbd5",
+            "decimals": 18,
+            "name": "fGBP",
+            "symbol": "FGBP",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0xcde58e4b6c7b78b04da664edb0a9752cc5fedbd5/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x2202c52c9076a49400aaccf159e1956269eaa673",
+            "decimals": 18,
+            "name": "fGold",
+            "symbol": "FGOLD",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0x2202c52c9076a49400aaccf159e1956269eaa673/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x3b74389bc23057325bab96523dbec8c445f55799",
+            "decimals": 18,
+            "name": "fJPY",
+            "symbol": "FJPY",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0x3b74389bc23057325bab96523dbec8c445f55799/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x2b9c073ec670b70f417bbaf3bbb052aa563a0a23",
+            "decimals": 18,
+            "name": "fKRW",
+            "symbol": "FKRW",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0x2b9c073ec670b70f417bbaf3bbb052aa563a0a23/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0xa649a19423052dc6b320360b3c760884e095ac57",
+            "decimals": 18,
+            "name": "fLINK",
+            "symbol": "FLINK",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0xa649a19423052dc6b320360b3c760884e095ac57/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0xf15e88eef35bf4709a4c3e99c00358f9247d4531",
+            "decimals": 18,
+            "name": "fSilver",
+            "symbol": "FSILVER",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0xf15e88eef35bf4709a4c3e99c00358f9247d4531/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0xad84341756bf337f5a0164515b1f6f993d194e1f",
+            "decimals": 18,
+            "name": "fUSD",
+            "symbol": "FUSD",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0xad84341756bf337f5a0164515b1f6f993d194e1f/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0xe297e06761a5489380538a0308b6f9b4a53bea45",
+            "decimals": 18,
+            "name": "fWTI Oil",
+            "symbol": "FWTIOIL",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0xe297e06761a5489380538a0308b6f9b4a53bea45/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x69c744d3444202d35a2783929a0f930f2fbb05ad",
+            "decimals": 18,
+            "name": "Staked FTM",
+            "symbol": "SFTM",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0x69c744d3444202d35a2783929a0f930f2fbb05ad/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+            "decimals": 18,
+            "name": "Wrapped Fantom",
+            "symbol": "WFTM",
+            "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83/logo.png"
+        }
+    ]
+}
