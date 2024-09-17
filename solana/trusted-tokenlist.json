@@ -1,0 +1,75 @@
+{
+  "name": "Trusted Token List",
+  "logoURI": "",
+  "keywords": [
+    "solana",
+    "spl"
+  ],
+  "tags": {},
+  "timestamp": "2022-11-18T16:57:31.363Z",
+  "tokens": [
+    {
+      "chainId": 101,
+      "name": "Pink",
+      "symbol": "PINK",
+      "address": "3AMtw8m3pZnrGLmGqQcJnHSQSaegtZGBMpon74EVZVQ3",
+      "decimals": 6,
+      "logoURI": "https://7wkundtglid62zgehee43kmqc2h2jreq6qvf2dmflr6hndap44yq.arweave.net/_ZVGjmZaB-1kxDkJzamQFo-kxJD0Kl0NhVx8dowP5zE/",
+      "tags": [
+        "spl-token-2022"
+      ]
+    },
+    {
+      "chainId": 101,
+      "name": "RugCheck",
+      "symbol": "RCHK",
+      "address": "4rADWie1EB5k2Dd49oM1SfeNawTRtV2ZTyutFb3B57nG",
+      "decimals": 5,
+      "logoURI": "https://rugcheck.xyz/favicon.png",
+      "tags": [
+        "spl-token-2022"
+      ]
+    },
+    {
+      "chainId": 101,
+      "name": "Yin&Yang",
+      "symbol": "YIN",
+      "address": "8wfEQNcYinqAM8gLwRwSXq6QwxKQ8JQA8CFA8jF3QYro",
+      "decimals": 6,
+      "logoURI": "https://bafkreib24egh4jrf3tsghctl7lhki7wynizh6zla73qewup3ltarbkfup4.ipfs.nftstorage.link/",
+      "tags": [
+        "spl-token-2022"
+      ]
+    },
+    {
+      "chainId": 101,
+      "name": "presaletoken",
+      "symbol": "PT",
+      "address": "AyTkn8g6QWdmfTiUmoQYN3Y7BHdR3EBydM1wWmH9C271",
+      "decimals": 6,
+      "logoURI": "https://solflare-static.ams3.cdn.digitaloceanspaces.com/misc/empty-white.png",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Drama Token",
+      "symbol": "DRAMA",
+      "address": "3ba26vEuRSLTd6GmDGQsrLWkRp1VRXdHoUeum3k4tSuF",
+      "decimals": 9,
+      "logoURI": "https://qdpw5kh2suzanv4jpry3jevawh7hmzqdewjfvg7ofuladhc7poaa.arweave.net/gN9uqPqVMgbXiXxxtJKgsf52ZgMlklqb7i0WAZxfe4A?ext=jpeg",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "XTAG Token (Wormhole)",
+      "symbol": "XTAG",
+      "address": "Ga15AHC3396dzHSuBkTUmnjNxBduzpBeVGrMzE5KVxX7",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/20912/large/xtag.png?1637922382",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "xhashtag"
+      }
+    }
+  ]
+}
