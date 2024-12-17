@@ -184605,6 +184605,7 @@
         "utility-token"
       ]
     },
+
     {
       "chainId": 101,
       "address": "DHs9mG4EQqq1pvXFHt8HZuvZQCr6Xi5GjGbASsj4TNZm",
@@ -184612,6 +184613,17 @@
       "name": "Jeffrium",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/jeffreydrew/pandacoin/main/pandafinal.png",
+      "tags": [
+        "social-token"
+      ]
+    } ,
+    {
+      "chainId": 101,
+      "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+      "symbol": "PENGU",
+      "name": "Pudgy Penguins",
+      "decimals": 6,
+      "logoURI": "https://cdn.bankless.com/i/1734448957887485.png",
       "tags": [
         "social-token"
       ]
