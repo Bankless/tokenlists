@@ -1,0 +1,28 @@
+{
+  "name": "Relay Token List",
+  "logoURI": "https://assets.relay.link/icons/logos/relay.png",
+  "tokens": [
+    {
+      "name": "Ether",
+      "decimals": 18,
+      "symbol": "ETH",
+      "address": "0x0000000000000000000000000000000000000000",
+      "chainId": 57073,
+      "logoURI": "https://assets.relay.link/icons/1/light.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 57073,
+      "logoURI": "https://assets.relay.link/icons/1/light.png"
+    }
+  ],
+  "timestamp": "2024-12-19T07:02:08.943Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
